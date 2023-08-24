@@ -21,11 +21,13 @@ To run the file locally, follow these steps:
 1. Clone the repository.
 2. Navigate to the shopping/ directory
 3. Install the required Python packages using the following command:
+   ```bash
    pip install numpy pandas seaborn matplotlib
-4. Launch Jupyter Notebook and open the shopping_analysis.ipynb notebook to perform data formatting and then proceed to the exploratory analysis.
+5. Launch Jupyter Notebook and open the shopping_analysis.ipynb notebook to perform data formatting and then proceed to the exploratory analysis.
 
 ## Usage
 The Jupyter notebook guide you through the data preprocessing and exploratory analysis steps. You can run each cell in the notebooks to see the code execution and visualizations.
+
 The insights derived from the analysis are documented at the end of the file.
 
 ## Screenshots
