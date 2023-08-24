@@ -26,13 +26,13 @@ To run the file locally, follow these steps:
 
 ## Usage
 The Jupyter notebook guide you through the data preprocessing and exploratory analysis steps. You can run each cell in the notebooks to see the code execution and visualizations.
+The insights derived from the analysis are documented at the end of the file.
 
 ## Screenshots
 <div style="display: flex; flex-direction: row;">
-  <img  style="margin-bottom: 10px;" src="" alt="" width="600" height="280">
+  <img  style="margin-bottom: 10px;" src="https://github.com/NilArj/Shopping-Behaviors-Analysis/blob/a9c2ee2ff77060763f3a68e866195f2fef130ecf/images/Captura%20de%20pantalla%202023-08-23%20112959.png" alt="project index" width="600" height="280">
 
 </div>
-The insights derived from the analysis are documented at the end of the file.
 
 
 
